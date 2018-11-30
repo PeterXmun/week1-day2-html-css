@@ -48,8 +48,10 @@ width: 30%;
 float: left;
 width: 200px;
 margin-right: 20px;
+margin-top: 6px;
 }
 
 a{
-    color: pink;
+    color:red;
 }
+
